@@ -1,3 +1,20 @@
+index.html
+
+![carbon](https://github.com/sujilucia/pure-js-counterapp/assets/160493142/d9f46a40-e539-4f31-934e-3caa47db0541)
+
+
+style.css
+
+![carbon (1)](https://github.com/sujilucia/pure-js-counterapp/assets/160493142/aed8d673-97ab-4d18-84b7-c2c0f3dbe72d)
+
+
+script.js
+
+
+![carbon (2)](https://github.com/sujilucia/pure-js-counterapp/assets/160493142/7cdf9830-33e8-4545-94bf-084e30760f14)
+
+
+
 step 1
 
 
